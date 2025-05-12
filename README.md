@@ -1,1 +1,2 @@
 # An-Approach-to-Adapting-Programming-Content-for-Students-with-Autism-Spectrum-Disorder-Using-GenAI
+Este repositório foi criado para armazenar os dados da pesquisa realizada para a escrita do artigo "An Approach to Adapting Programming Content for Students with Autism Spectrum Disorder Using Generative AI", incluindo o formulário contendo as adaptações textuais e imagens geradas para adaptação de um curso de Python para facilitar o aprendizado de pessoas com autismo.
